@@ -23,37 +23,53 @@ class ListActivity : AppCompatActivity() {
 
         val menuIcons = listOf(
             ModelWisata(
-                R.drawable.jamgadang,
-                "Jam gadang Bukittinggi",
-                "Bukittinggi, Sumatera Barat",
-                "Jam Gadang adalah menara jam yang menjadi penanda atau ikon Kota Bukittinggi Sumatera Barat Indonesia. Menara jam ini menjulang setinggi 27 meter dan diresmikan pembangunannya pada 25 Juli 1927",
-                -0.3049441760037679,
-                100.36948795756079
+                R.drawable.pdg1,
+                "Lembah Harau",
+                "Payakumbuh, Sumatera Barat",
+                "JLembah Harau adalah sebuah ngarai dekat Kota Payakumbuh di Kabupaten Limapuluh Koto, provinsi Sumatera Barat. Lembah Harau diapit dua bukit cadas terjal dengan ketinggian mencapai 150 meter berupa batu pasir yang terjal berwarna-warni, dengan ketinggian 100 sampai 500 meter.",
+                -0.1089167031082464, 100.66419712946801,
+
             ),
             ModelWisata(
-                R.drawable.alunalun,
-                "Ulun danu Beratan Bedugul",
-                "Bali",
-                "Pura Ulun Danu Bratan, Pura Ulun Danu Beratan atau Bratan Pura merupakan sebuah pura dan candi air besar di Bali, Indonesia - candi utama air lainnya menjadi Pura Ulun Danu Batur. Kompleks candi ini terletak di tepi barat laut Danau Bratan di pegunungan dekat Bedugul, Kabupaten Tabanan",
-                -8.275021434769968,
-                115.16680193649081
+                R.drawable.pdg3,
+                "Masjid Raya Sumbar",
+                "Padang, Sumatera Barat",
+                "Masjid Raya Sumatera Barat atau Masjid Raya Syekh Ahmad Khatib Al Minangkabawi terletak di Jalan Chatib Sulaiman, Kota Padang, Sumatera Barat. Pembangunannya diawali peletakan batu pertama pada 21 Desember 2007 dan dinyatakan tuntas pada 4 Januari 2019",
+                -0.9239846032978624, 100.36243359479649,
+
             ),
             ModelWisata(
-                R.drawable.borobudur,
+                R.drawable.pdg5,
+                "Istano Pagaruyuang",
+                "Kab.Tanah Datar, Sumatera Barat",
+                "Istano Basa Pagaruyung yang lebih terkenal dengan nama Istana Besar Kerajaan Pagaruyung adalah museum berupa replika istana Kerajaan Pagaruyung terletak di Nagari Pagaruyung, Kecamatan Tanjung Emas, Kabupaten Tanah Datar, Sumatera Barat.",
+                -0.47103891617002636, 100.62142635246667
+
+                ),
+            ModelWisata(
+                R.drawable.pdg4,
+                "Eropa Harau",
+                "Payakumbuh, Sumatera Barat",
+                "Lembah Harau adalah keajaiban alam di Sumatera Barat dengan kontur alam indah dan suasana yang sejuk.Kamu tak perlu lagi melancong pergi hingga keluar negeri karena Lembah Harau Dream Park memberikan pengalaman untuk merasakan suasana tiga tempat berbeda dalam satu tempat sekaligus, termasuk wisata Kampung Eropa Lembah Harau. .",
+                -0.11293068890971, 100.66983143557053
+
+            ),
+            ModelWisata(
+                R.drawable.boro,
                 "Candi borobudur",
                 "Magelang",
                 "Dibangun dari abad ke-9, situs ini terkenal sebagai candi Buddha terbesar di dunia",
                 -7.604879709882314, 110.2035859416411
             ),
             ModelWisata(
-                R.drawable.labuanbajo,
+                R.drawable.labuan,
                 "Labuan Bajo",
                 "NTT",
                 "Labuan Bajo merupakan salah satu kelurahan yang berada di Kecamatan Komodo, Kabupaten Manggarai Barat, Provinsi Nusa Tenggara Timur, Indonesia. Labuan Bajo juga merupakan pusat pemerintahan dari Kecamatan Komodo dan sekaligus merupakan ibu kota Kabupaten Manggarai Barat",
                 -8.437930350601835, 119.86714452945427
             ),
             ModelWisata(
-                R.drawable.danautoba,
+                R.drawable.danau,
                 "Danau Toba",
                 "Sumatera Utara",
                 "Danau Toba adalah danau alami berukuran besar di Sumatera Utara, Indonesia yang terletak di kaldera gunung supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 508 meter. Danau ini terletak di tengah pulau Sumatra bagian utara dengan ketinggian permukaan sekitar 900 mete",
